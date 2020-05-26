@@ -12,6 +12,7 @@
 ### - [SS-Battle](https://github.com/sya-ri/SS-Battle)
 ### - [SS-Item](https://github.com/sya-ri/SS-Item)
 ### - [SS-Job](https://github.com/sya-ri/SS-Job)
+### - [SS-GUI](https://github.com/sya-ri/SS-GUI)
 ### - [SS-Economy](https://github.com/sya-ri/SS-Economy)
 ### - [SS-Votifier](https://github.com/sya-ri/SS-Votifier)
 ### - [SS-Discord](https://github.com/sya-ri/SS-Discord)
