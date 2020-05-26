@@ -28,5 +28,5 @@ repositories {
 
 ### gradle.properties
 ```
-ssMavenRepoURL = "https://mymavenrepo.com/repo/It7YYM2R0nvQscV8EThI/"
+ssMavenRepoURL=https://mymavenrepo.com/repo/It7YYM2R0nvQscV8EThI/
 ```
