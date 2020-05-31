@@ -7,7 +7,7 @@
 
 ## レポジトリ
 ### - [SS-Kotlin](https://github.com/sya-ri/SS-Kotlin) v1.3
-### - [SS-Core](https://github.com/sya-ri/SS-Core) v2.9
+### - [SS-Core](https://github.com/sya-ri/SS-Core) v2.10
 ### - [SS-World](https://github.com/sya-ri/SS-World) v1.1
 ### - [SS-Battle](https://github.com/sya-ri/SS-Battle) v1.0-dev
 ### - [SS-Item](https://github.com/sya-ri/SS-Item) v1.0-dev
