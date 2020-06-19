@@ -16,7 +16,7 @@
 ### - [SS-Economy](https://github.com/sya-ri/SS-Economy) v1.0-dev
 ### - [SS-Votifier](https://github.com/sya-ri/SS-Votifier) v1.1.1
 ### - [SS-Chat](https://github.com/sya-ri/SS-Chat) v1.0
-### - [SS-Discord](https://github.com/sya-ri/SS-Discord) v1.0.1
+### - [SS-Discord](https://github.com/sya-ri/SS-Discord) v2.0
 
 ## [mvn-repo](https://mymavenrepo.com/repo/It7YYM2R0nvQscV8EThI/)
 ### build.gradle.kts
